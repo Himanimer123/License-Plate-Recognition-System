@@ -14,6 +14,7 @@ This project aims to recognize license plates from vehicle images using OpenCV f
 - **Tesseract OCR:** For recognizing text from the extracted license plate region.
 - **Python:** The programming language used to implement the project.
 
+Ensure Tesseract OCR is installed on your system. You can download it from [here](https://github.com/tesseract-ocr/tesseract).
 
 ## Usage
 1. Run the script:
