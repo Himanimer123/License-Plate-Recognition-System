@@ -23,11 +23,3 @@ This project aims to recognize license plates from vehicle images using OpenCV f
 2. Enter the path to the input image when prompted.
 3. The recognized license plates will be printed in the console and the annotated images will be saved in the `output` directory.
 
-## Project Structure
-.
-├── input/                  # Directory containing input images
-├── output/                 # Directory to save output images
-├── license_plate_recognition.py  # Main script for license plate recognition
-├── requirements.txt        # Required Python packages
-└── README.md               # Project description and instructions
-
